@@ -25,5 +25,10 @@ void int_adder(int x, int y){
 
 A `README.md` is a markdown file which means it is written in Markdown, which is a super-lightweight way to create content that is widely used to document projects. It is a good skill to know.  If you need help learning markdown, there are tons of good resources such as [this](https://www.markdownguide.org/getting-started/).
 
+# Summary
+
+You should use your writeup as a way to help us in grading your design exercise. Our job is not to try to figure out what you did. Our job is to grade. Your job is to explain what you did and show it. 
+
+
 
 
