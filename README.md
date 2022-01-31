@@ -2,15 +2,11 @@
 
 This is an example writeup for a design exercise.  You should use this to explain any design decisions and/or highligh particular parts of your code/algorithm/protocols that you came up with that are important.  A few legitimate paragraphs is probably sufficient, though if you want to go longer, feel free to do so!  If you just add a couple random sentences and copy-paste your entire code base, that is not a writeup and you'll lose points and/or your assignment will not be graded.
 
-Your writeup should also link to your demonstration video. The video can either be embedded like below:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GqoFyI8VGLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Or you can just link to it like shown:
+Your writeup should also link to your demonstration video like shown below
 
 [demonstration video](https://www.youtube.com/watch?v=GqoFyI8VGLg)
 
-It is your responsibility to make sure that your video is viewable! If it is not you will lose points and/or your assignment will not be graded
+It is **your responsibility** to make sure that your video is viewable! If it is not you will lose points and/or your assignment will not be graded
 
 ## Resources
 
