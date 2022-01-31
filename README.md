@@ -6,4 +6,4 @@ This is an example writeup for a design exercise.  You should use this to explai
 
 If you have any images, place them in a folder called `writeup_resources` in the top level of the folder. Then you can reference the images by simply using a relative path
 
-![An example test image](./writeup_resources/test_image.jpg)
+![An example test image](./writeup_resources/beaver.jpg)
